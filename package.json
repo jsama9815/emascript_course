@@ -1,0 +1,16 @@
+{
+  "name": "curso_emascript",
+  "version": "1.0.0",
+  "description": "primer ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Armando santibañez <pepe_zony@hotmail.com>",
+  "license": "MIT",
+  "type":"module"
+}
